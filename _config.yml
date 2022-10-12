@@ -6,15 +6,15 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Keidai Iiyama"
+locale                   : "ja-JP"
+title                    : "Yuki Ueno"
 title_separator          : "-"
-name                     : &name "Keidai Iiyama"
-description              : &description "Master Student at the University of Tokyo"
-url                      : https://kdricemt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yuki Ueno"
+description              : &description "Data Engineer and Business Intelligence Engineer at DENSO"
+url                      : https://y0uk1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #url                      : http://127.0.0.1:4000/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kdricemt/kdricemt.github.io"
+repository               : "y0uk1/y0uk1.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,15 +81,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Keidai Iiyama"
-  avatar           : "profile3.jpg"
-  bio              : "Ph.D. Student at Stanford AeroAstro"
-  location         : "Stanford, CA"
-  employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=84_oy1EAAAAJ&hl=ja"
-  email            : "iiyama{at}space.t.u-tokyo.ac.jp"
-  researchgate     : "https://www.researchgate.net/profile/Keidai_Iiyama"
+  name             : "Yuki Ueno"
+  avatar           : "profile.jpg"
+  bio              : "Data Engineer and Business Intelligence Engineer at DENSO"
+  # location         : "Location"
+  # employer         :
+  # pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # googlescholar    : "https://scholar.google.com/citations?user=84_oy1EAAAAJ&hl=ja"
+  email            : "ueno.yuki.78x@kyoto-u.jp"
+  # researchgate     : "https://www.researchgate.net/profile/Keidai_Iiyama"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,10 +97,10 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "/kdricemt"
+  github           : "y0uk1"
   google_plus      :
   keybase          :
-  instagram        : "keidai_iiyama"
+  instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "/keidai-iiyama-a9a165171"
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
@@ -322,4 +322,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-  
