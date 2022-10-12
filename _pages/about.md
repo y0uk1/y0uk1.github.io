@@ -22,7 +22,7 @@ feature_kyotou_be:
     date: "2017"
     title: 'B.E. in Electrical and Electronic Engineering, Kyoto University'
     subtitle: "<i> Advisor: Prof. Nakamura </i>"
-    excerpt: "Modeling Machine Manipulation and Structuring Experience Videos Focusing on Differences in Skill Level"
+    excerpt: "Thesis: Modeling Machine Manipulation and Structuring Experience Videos Focusing on Differences in Skill Level"
 # Research Experience
 feature_vizlab:
   - image_path: ../images/KyotoUniversity.png

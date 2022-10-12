@@ -18,10 +18,10 @@ toc_sticky: true
 <!-- You can also find my articles at my [ResearchGate](https://www.researchgate.net/profile/Keidai_Iiyama) and [Google Scholar](https://scholar.google.com/citations?user=84_oy1EAAAAJ&hl=ja). -->
 
 ## Peer-Reviewed Journal Publications
-1. **Yuki Ueno**, Hiroaki Natsukawa, Nozomi Aoyama, Koji Koyamada, "Exploration behavior of group-in-a-box layouts", Visual Informatics, 3(1), 38-47, 2019 [[Paper](https://www.sciencedirect.com/science/article/pii/S2468502X19300208)]
+1. **Yuki Ueno**, Hiroaki Natsukawa, Nozomi Aoyama, Koji Koyamada, "Exploration behavior of group-in-a-box layouts", Visual Informatics, 3(1), 38-47, 2019, [[Paper](https://www.sciencedirect.com/science/article/pii/S2468502X19300208)]
 
 ## International Conference Proceedings
-1. Nozomi Aoyama, Yosuke Onoue, **Yuki Ueno**, Hiroaki Natsukawa, Koji Koyamada, "User Evaluation of Group-in-a-Box Variants", Proceedings of IEEE Pacific Visualization Symposium (PacificVis), 127-136, 2019 [[Paper](https://ieeexplore.ieee.org/document/8781570)]
+1. Nozomi Aoyama, Yosuke Onoue, **Yuki Ueno**, Hiroaki Natsukawa, Koji Koyamada, "User Evaluation of Group-in-a-Box Variants", Proceedings of IEEE Pacific Visualization Symposium (PacificVis), 127-136, 2019, [[Paper](https://ieeexplore.ieee.org/document/8781570)]
 
 ## Workshop and Symposium Papers
 1. **Yuki Ueno**, Hiroaki Natsukawa, Nozomi Aoyama, Koji Koyamada, "Task Performance Classification During Visualization Evaluations Based on Physiological Signals", VizAfrica 2018 Visualization Symposium, 2018
