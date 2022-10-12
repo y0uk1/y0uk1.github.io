@@ -12,10 +12,10 @@ excerpt: "List of research projects"
 intro:
   - excerpt: ''
 feature_row:
-  - image_path: ../images/vis_eval_1.jpg
+  - image_path: ../images/vis_eval_1.png
     alt: "Evaluation of Visualization"
     title: "Visualization and Visual Cognition"
-    excerpt: '**Period:** 2017/3-2019/3  &nbsp; &nbsp; &nbsp; **Advisor:** Prof.Koyamada, Prof.Natsukawa (Kyoto University) <br> <br>
+    excerpt: '**Period:** 2017/3-2019/3  &nbsp; &nbsp; &nbsp; **Advisor:** Prof. Koyamada, Prof. Natsukawa (Kyoto University) <br> <br>
     **Abstract:** Seeing data does not mean seeing things as they are. The light from the monitor is converted into electrical signals in the retina, and then travels through the optic nerve to the visual cortex via the lateral geniculate nucleus, where it is processed for visual information, allowing us to see what it is. While many studies on visual cognition and neuroscience have revealed some aspects of human visual characteristics, the effects of visual complexity on cognitive load in information visualization, such as graph drawing and interactive visualization have not yet been elucidated. Therefore, I evaluated the effect of the layout method of group-in-a-box layout, which is a graph drawing layout with a group structure, on human information search using eye movement measurement and biometric measurement, and study the better visualization design for human.'
     # url: /research/LGPS/
     # btn_label: "Read More"

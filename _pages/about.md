@@ -14,14 +14,14 @@ feature_kyotou_me:
     alt: "KyotoU"
     date: "2019"
     title: 'M.E. in Electrical Engineering, Kyoto University'
-    subtitle: "<i> Advisor: Prof.Koyamada </i>"
+    subtitle: "<i> Advisor: Prof. Koyamada </i>"
     excerpt:  "Thesis: Analysis of Exploration Behavior in Graph Drawing Based on Physiological Information"
 feature_kyotou_be:
   - image_path: ../images/KyotoUniversity.png
     alt: "KyotoU"
     date: "2017"
     title: 'B.E. in Electrical and Electronic Engineering, Kyoto University'
-    subtitle: "<i> Advisor: Prof.Nakamura </i>"
+    subtitle: "<i> Advisor: Prof. Nakamura </i>"
     excerpt: "Modeling Machine Manipulation and Structuring Experience Videos Focusing on Differences in Skill Level"
 # Research Experience
 feature_vizlab:
@@ -30,18 +30,18 @@ feature_vizlab:
     date: "2017.4 ~ 2019.3"
     title: '<a href="http://www.viz.media.kyoto-u.ac.jp/html/en/index.html"> Visualization Laboratory </a>'
     subtitle: "<i> Department of Electrical Engineering, Kyoto University </i>"
-    excerpt: "Duties included: Research on people's behavior while looking at visualization <br> Supervisor: Prof.Koyamada, Prof.Natsukawa"
+    excerpt: "Duties included: Research on people's behavior while looking at visualization <br> Supervisor: Prof. Koyamada, Prof. Natsukawa"
 feature_nakamuralab:
   - image_path: ../images/KyotoUniversity.png
     alt: "KyotoU"
     date: "2016.4 ~ 2017.3"
     title: '<a href="http://www.ccm.media.kyoto-u.ac.jp/index.php"> Nakamura Lab. </a>'
     subtitle: "<i> Undergraduate School of Electrical and Electronic Engineering </i>"
-    excerpt: "Duties included: Research on modeling poeple's behavior while manipulating machine from videos <br> Supervisor: Prof.Nakamura, Prof.Kondo"
+    excerpt: "Duties included: Research on modeling poeple's behavior while manipulating machine from videos <br> Supervisor: Prof. Nakamura, Prof. Kondo"
 feature_denso:
   - image_path: ../images/denso.png
     alt: "Denso"
-    date: "2018.2 ~ 2018.3"
+    oate: "2018.2 ~ 2018.3"
     title: '<a href="https://www.denso.com/global/en/"> AI Lab. </a>'
     # subtitle: "<i>  </i>"
     excerpt: "Duties included: Research on emotion estimation based on physiological responses <br> Supervisor: Murase"
@@ -52,7 +52,7 @@ feature_ta:
     date: "2018.4 ~ 2018.7"
     title: 'Graduate TA of Junior-level Class &apos;Information Visualization&apos; '
     subtitle: "<i> Department of Electrical Engineering, Kyoto University </i>"
-    excerpt: "Duties included: Creating lecture materials, student support <br> Supervisor: Prof.Koyamada"
+    excerpt: "Duties included: Creating lecture materials, student support <br> Supervisor: Prof. Koyamada"
 
 redirect_from:
   - /about/
