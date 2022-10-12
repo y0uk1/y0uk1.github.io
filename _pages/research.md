@@ -7,7 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: ../images/switzerland.jpg
-  caption: "Photo by Yuki Ueno / , "
+  caption: "Photo by Yuki Ueno / Matterhorn, Switzerland"
 excerpt: "List of research projects"
 intro:
   - excerpt: ''
