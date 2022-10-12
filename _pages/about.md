@@ -41,7 +41,7 @@ feature_nakamuralab:
 feature_denso:
   - image_path: ../images/denso.png
     alt: "Denso"
-    oate: "2018.2 ~ 2018.3"
+    date: "2018.2 ~ 2018.3"
     title: '<a href="https://www.denso.com/global/en/"> AI Lab. </a>'
     # subtitle: "<i>  </i>"
     excerpt: "Duties included: Research on emotion estimation based on physiological responses <br> Supervisor: Murase"
