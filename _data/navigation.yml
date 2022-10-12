@@ -1,5 +1,5 @@
   # main links links
-main:         
+main:
 # - title: "Project"
 #    url: /project/
 
@@ -7,13 +7,13 @@ main:
     url: /publications/
 
   - title: "Research"
-    url: /research/   
+    url: /research/
 
 # - title: "CV"
 #   url: /cv/
 
-  - title: "Japanese Contents"
-    url: /japanese/
+  # - title: "Japanese Contents"
+  #   url: /japanese/
 
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog Posts"
+  #   url: /year-archive/

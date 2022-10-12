@@ -31,7 +31,7 @@ feature_vizlab:
     title: '<a href="http://www.viz.media.kyoto-u.ac.jp/html/en/index.html"> Visualization Laboratory </a>'
     subtitle: "<i> Department of Electrical Engineering, Kyoto University </i>"
     excerpt: "Duties included: Research on people's behavior while looking at visualization <br> Supervisor: Prof.Koyamada, Prof.Natsukawa"
-feature_nakakuralab:
+feature_nakamuralab:
   - image_path: ../images/KyotoUniversity.png
     alt: "KyotoU"
     date: "2016.4 ~ 2017.3"
@@ -65,8 +65,8 @@ https://www.denso.com/global/en/). I create a visualization system with Tableau 
 Please refer to my [CV](../files/Yuki_Ueno_CV.pdf) for the latest information.
 
 ## Education
-{% include minifeature_row id="kyotou_me" type="left" %}
-{% include minifeature_row id="kyotou_be" type="left" %}
+{% include minifeature_row id="feature_kyotou_me" type="left" %}
+{% include minifeature_row id="feature_kyotou_be" type="left" %}
 
 ## Research Experience
 {% include minifeature_row id="feature_vizlab" type="left" %}
