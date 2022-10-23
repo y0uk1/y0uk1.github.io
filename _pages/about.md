@@ -36,14 +36,14 @@ feature_nakamuralab:
     alt: "KyotoU"
     date: "2016.4 ~ 2017.3"
     title: '<a href="http://www.ccm.media.kyoto-u.ac.jp/index.php"> Nakamura Lab. </a>'
-    subtitle: "<i> Undergraduate School of Electrical and Electronic Engineering </i>"
+    subtitle: "<i> Undergraduate School of Electrical and Electronic Engineering, Kyoto University </i>"
     excerpt: "Duties included: Research on modeling poeple's behavior while manipulating machine from videos <br> Supervisor: Prof. Nakamura, Prof. Kondo"
 feature_denso:
   - image_path: ../images/denso.png
     alt: "DENSO CORPORATION"
     date: "2018.2 ~ 2018.3"
     title: '<a href="https://www.denso.com/global/en/"> AI Lab. </a>'
-    # subtitle: "<i>  </i>"
+    subtitle: "<i> DENSO CORPORATION </i>"
     excerpt: "Duties included: Research on emotion estimation based on physiological responses <br> Supervisor: Murase"
 # TA
 feature_ta:
