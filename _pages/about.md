@@ -46,13 +46,21 @@ feature_denso:
     subtitle: "<i> DENSO CORPORATION </i>"
     excerpt: "Duties included: Research on emotion estimation based on physiological responses <br> Supervisor: Murase"
 # TA
-feature_ta:
+feature_ta1:
   - image_path: ../images/KyotoUniversity.png
     alt: "KyotoU"
-    date: "2018.4 ~ 2018.7"
-    title: 'Graduate TA of Junior-level Class &apos;Information Visualization&apos; '
+    date: "2017.10 ~ 2018.1"
+    title: 'Graduate TA &apos;Visualized Simulation Technology&apos; '
     subtitle: "<i> Department of Electrical Engineering, Kyoto University </i>"
-    excerpt: "Duties included: Creating lecture materials, student support <br> Supervisor: Prof. Koyamada"
+    excerpt: "Supervisor: Prof. Koyamada"
+
+feature_ta2:
+  - image_path: ../images/KyotoUniversity.png
+    alt: "KyotoU"
+    date: "2017.4 ~ 2017.7"
+    title: 'Graduate TA &apos;Spacio-temporal Data Analysis for Multimedia&apos; '
+    subtitle: "<i> Department of Electrical Engineering, Kyoto University </i>"
+    excerpt: "Supervisor: Prof. Nakamura"
 
 redirect_from:
   - /about/
@@ -76,7 +84,8 @@ Please refer to my [CV](../files/Yuki_Ueno_CV.pdf) for the latest information.
 Please see [here](/research/) for further information.
 
 ## Teaching Experience
-{% include minifeature_row id="feature_ta" type="left" %}
+{% include minifeature_row id="feature_ta1" type="left" %}
+{% include minifeature_row id="feature_ta2" type="left" %}
 
 ## Publications
 Please see [here](/publications/)
