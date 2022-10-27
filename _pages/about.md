@@ -49,12 +49,20 @@ feature_denso:
 feature_ta1:
   - image_path: ../images/KyotoUniversity.png
     alt: "KyotoU"
+    date: "2018.4 ~ 2018.7"
+    title: 'Graduate TA &apos;ILAS Seminar&apos; '
+    subtitle: "<i> Institute for Liberal Arts and Sciences, Kyoto University </i>"
+    excerpt: "Supervisor: Prof. Koyamada"
+
+feature_ta2:
+  - image_path: ../images/KyotoUniversity.png
+    alt: "KyotoU"
     date: "2017.10 ~ 2018.1"
     title: 'Graduate TA &apos;Visualized Simulation Technology&apos; '
     subtitle: "<i> Department of Electrical Engineering, Kyoto University </i>"
     excerpt: "Supervisor: Prof. Koyamada"
 
-feature_ta2:
+feature_ta3:
   - image_path: ../images/KyotoUniversity.png
     alt: "KyotoU"
     date: "2017.4 ~ 2017.7"
@@ -86,6 +94,7 @@ Please see [here](/research/) for further information.
 ## Teaching Experience
 {% include minifeature_row id="feature_ta1" type="left" %}
 {% include minifeature_row id="feature_ta2" type="left" %}
+{% include minifeature_row id="feature_ta3" type="left" %}
 
 ## Publications
 Please see [here](/publications/)
