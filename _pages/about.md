@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Yuki Ueno"
-excerpt: "Data Engineer and Business Intelligence Engineer at DENSO CORPORATION"
+excerpt: "Data Engineer and Business Intelligence Engineer at DENSO Corporation"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -40,10 +40,10 @@ feature_nakamuralab:
     excerpt: "Duties included: Research on modeling poeple's behavior while manipulating machine from videos <br> Supervisor: Prof. Nakamura, Prof. Kondo"
 feature_denso:
   - image_path: ../images/denso.png
-    alt: "DENSO CORPORATION"
+    alt: "DENSO Corporation"
     date: "2018.2 ~ 2018.3"
     title: '<a href="https://www.denso.com/global/en/"> AI Lab. </a>'
-    subtitle: "<i> DENSO CORPORATION </i>"
+    subtitle: "<i> DENSO Corporation </i>"
     excerpt: "Duties included: Research on emotion estimation based on physiological responses <br> Supervisor: Murase"
 # TA
 feature_ta1:
@@ -75,8 +75,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Data Engineer and Business Intelligence Engineer at [DENSO CORPORATION](
-https://www.denso.com/global/en/). I create a visualization system with Tableau and Snowflake to monitor project-management metrics. As well as creating visualization systems, I also have experience administrating systems with AWS technologies. Before starting at DENSO CORPORATION, I earned my M.Eng. in Electrical Engineering at Kyoto University in 2019 as part of the [Visualization Laboratory](http://www.viz.media.kyoto-u.ac.jp/html/en/index.html) under Prof. Koji Koyamada and my B.Eng. in Electrical and Electronic Engineering at Kyoto University in 2017. I am interested in people's behavior while looking at visualization and building better visualizations from empirical studies. Please feel free to reach me at *ueno.yuki.78x@kyoto-u.jp*.
+I am a Data Engineer and Business Intelligence Engineer at [DENSO Corporation](
+https://www.denso.com/global/en/). I create a visualization system with Tableau and Snowflake to monitor project-management metrics. As well as creating visualization systems, I also have experience administrating systems with AWS technologies. Before starting at DENSO Corporation, I earned my M.Eng. in Electrical Engineering at Kyoto University in 2019 as part of the [Visualization Laboratory](http://www.viz.media.kyoto-u.ac.jp/html/en/index.html) under Prof. Koji Koyamada and my B.Eng. in Electrical and Electronic Engineering at Kyoto University in 2017. I am interested in people's behavior while looking at visualization and building better visualizations from empirical studies. Please feel free to reach me at *ueno.yuki.78x@kyoto-u.jp*.
 
 Please refer to my [CV](../files/Yuki_Ueno_CV.pdf) for the latest information.
 
