@@ -1,7 +1,14 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Card Game Stadium"
+excerpt: "<img src='/images/CardGameStadium.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<img src="/images/CardGameStadium.png">
+<h2>DESCRIPTION</h2>
+<p>This is a set of card games. As of now, You can play Blackjack, Casino War, Speed, and Poker. In addition to these games, I'm planning to develop Texas Hold'em Poker and Rummy. You can play games with or without user account. If you don't log in, the best score is stored for each game. On the other hand, if you log in, you can use your wallet, so you can earn money in each game, and you can access to the ranking of the amount of owning money. Try to become a millionaire.</p>
+<h2>TECHNOLOGY</h2>
+<p>I developed this game with TypeScript, Next.js, Phaser3, Tailwind CSS, and Supabase. Each game extends from the common game scene, so that I can add new game easily. I mainly developed Speed, Casino War, and Blackjack. In addition, I developed the class diagram.</p>
+
+<link href="https://github.com/Recursion-Group-C/card-game">CODE</link>
+<link href="https://card-game-drab-ten.vercel.app/">WEBSITE</link>
