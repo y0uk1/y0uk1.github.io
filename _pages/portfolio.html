@@ -10,5 +10,8 @@ header:
   caption: "Photo by Yuki Ueno / Matterhorn, Switzerland"
 ---
 
-{% include base_path %} {% for post in site.portfolio %} {% include
-archive-single.html %} {% endfor %}
+{% include base_path %}
+
+{% for post in site.portfolio %}
+  {% includearchive-single.html %}
+{% endfor %}
