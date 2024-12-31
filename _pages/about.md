@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Yuki Ueno"
-excerpt: "Data Engineer and Business Intelligence Engineer at DENSO Corporation"
+excerpt: "Computer Science Ph.D. student at Arizona State University"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
