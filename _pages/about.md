@@ -9,6 +9,12 @@ header:
   caption: "Photo by Yuki Ueno / Reykjavík , Iceland"
 author_profile: true
 # Education
+feature_asu_csphd:
+  - image_path: ../images/ASU.png
+    alt: "ASU"
+    date: "2025~"
+    title: "Ph.D. in Computer Science, Arizona State University"
+    subtitle: "<i> Advisor: Prof. Chris Bryan </i>"
 feature_kyotou_me:
   - image_path: ../images/KyotoUniversity.png
     alt: "KyotoU"
@@ -75,12 +81,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a Data Engineer and Business Intelligence Engineer at [DENSO Corporation](https://www.denso.com/global/en/). I create a visualization system with Tableau and Snowflake to monitor project-management metrics. As well as creating visualization systems, I also have experience administrating systems with AWS technologies. Before starting at DENSO Corporation, I earned my M.Eng. in Electrical Engineering at Kyoto University in 2019 as part of the [Visualization Laboratory](http://www.viz.media.kyoto-u.ac.jp/html/en/index.html) under Prof. Koji Koyamada and my B.Eng. in Electrical and Electronic Engineering at Kyoto University in 2017. I am interested in work at the intersection of AI, information visualization, cognitive science, and human-computer interaction. Please feel free to reach me at *ueno.yuki.78x@kyoto-u.jp*.
+I am a Data Visualization Ph.D. student at Arizona State University working with [Chris Bryan](https://chrisbryan.github.io/).
+
+I am interested in work at the intersection of AI, information visualization, cognitive science, and human-computer interaction. Please feel free to reach me at *yueno@asu.edu*.
 
 Please refer to my [CV](../files/Yuki_Ueno_CV.pdf) for the latest information.
 
 ## Education
 
+{% include minifeature_row id="feature_asu_csphd" type="left" %}
 {% include minifeature_row id="feature_kyotou_me" type="left" %}
 {% include minifeature_row id="feature_kyotou_be" type="left" %}
 
@@ -104,4 +113,4 @@ Please see [here](/publications/)
 
 ## Contact
 
-*ueno.yuki.78x@kyoto-u.jp*
+*yueno@asu.edu*
