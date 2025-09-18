@@ -12,6 +12,15 @@ excerpt: "List of research projects"
 intro:
   - excerpt: ''
 feature_row:
+  - image_path: ../images/AugmentedAlgorithm.png
+    alt: "Augmented Algorithm"
+    title: "Augmented Algorithm"
+    excerpt: '**Period:** 2025/5-2025/9  &nbsp; &nbsp; &nbsp; **Advisor:** Prof. Bryan (Arizona State University) <br> <br>
+    **Abstract:** Learning data structures and algorithms is a fundamental activity in computer science education, but this is challenging due to their abstract and dynamic nature. While algorithm visualization tools have shown pedagogical benefits, they remain underutilized in educational settings due to creation or integration difficulties. We introduce Augmented Algorithm, a novel LLM-powered algorithm visualization tool that transforms static textbook pseudocode into embedded, interactive algorithm visualizations. Our web-based system combines computer vision with LLMs to automatically generate synchronized, step-by-step algorithm animations from pseudocode directly within scanned textbook pages.'
+    # url: /research/LGPS/
+    # btn_label: "Read More"
+    # btn_class: "btn--primary"
+feature_row2:
   - image_path: ../images/vis_eval_1.png
     alt: "Evaluation of Visualization"
     title: "Visualization and Visual Cognition"
@@ -20,7 +29,7 @@ feature_row:
     # url: /research/LGPS/
     # btn_label: "Read More"
     # btn_class: "btn--primary"
-feature_row2:
+feature_row3:
   - image_path: ../images/video_structring.png
     alt: "mapping"
     title: "Modeling Machine Manipuration from Video Recording"
