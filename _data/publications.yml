@@ -27,7 +27,7 @@ main:
     pdf: ./files/publications/jiang2026harnessing.pdf
 
   - title: "ASAP: Visual analytics for identifying and analyzing image patterns in AI-generated images"
-    url: https://arxiv.org/abs/2609.25700
+    url: https://journals.sagepub.com/doi/abs/10.1177/14738716261481077
     authors: Jinbin Huang, <strong>Yuki Ueno</strong>, Chen Chen, Aditi Mishra, Bum Chul Kwon, Zhicheng Liu, Chris Bryan
     conference_short: InfoVis
     conference: Information Visualization, 2026.
