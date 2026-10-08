@@ -1,0 +1,70 @@
+main:
+  - title: "ChartRevive: Reconstructing Data Visualizations from Chart Images Using MLLM"
+    url: https://arxiv.org/abs/2609.27146
+    authors: <strong>Yuki Ueno</strong>, Aditeya Pandey
+    conference_short: VIS Workshop
+    conference: VIS × GenAI Workshop, IEEE VIS, 2026.
+    image: ./images/publications/ueno2026chartrevive.png
+    notes:
+    pdf: ./files/publications/ueno2026chartrevive.pdf
+
+  - title: "VisCanvas: A Node-Based Interface for Exploratory Visualization Authoring with LLMs"
+    url: https://arxiv.org/abs/2607.21886
+    authors: <strong>Yuki Ueno</strong>, Bretho Danzy III, Zhuojun Jiang, Chris Bryan
+    conference_short: VIS
+    conference: IEEE VIS, 2026.
+    image: ./images/publications/ueno2026viscanvas.png
+    notes:
+    pdf: ./files/publications/ueno2026viscanvas.pdf
+
+  - title: "Harnessing LLMs Without Surrendering Control: Delegation Boundaries in Visual Data Storytelling Authoring"
+    url: https://arxiv.org/abs/2609.25700
+    authors: Zhuojun Jiang, <strong>Yuki Ueno</strong>, Chris Bryan
+    conference_short: VIS Shortpaper
+    conference: IEEE VIS Shortpaper, 2026.
+    image: ./images/publications/jiang2026harnessing.png
+    notes:
+    pdf: ./files/publications/jiang2026harnessing.pdf
+
+  - title: "ASAP: Visual analytics for identifying and analyzing image patterns in AI-generated images"
+    url: https://arxiv.org/abs/2609.25700
+    authors: Jinbin Huang, <strong>Yuki Ueno</strong>, Chen Chen, Aditi Mishra, Bum Chul Kwon, Zhicheng Liu, Chris Bryan
+    conference_short: InfoVis
+    conference: Information Visualization, 2026.
+    image: ./images/publications/huang2026asap.png
+    notes:
+    pdf: ./files/publications/huang2026asap.pdf
+
+  - title: "VisAider: AI-assisted context-aware visualization support for data presentations"
+    url: https://arxiv.org/abs/2510.14247
+    authors: Kentaro Takahira, <strong>Yuki Ueno</strong>
+    conference_short: VIS Workshop
+    conference: MERCADO Workshop, IEEE VIS, 2025.
+    image: ./images/publications/takahira2025visaider.png
+    notes:
+    pdf: ./files/publications/takahira2025visaider.pdf
+
+  - title: "Do boxes affect exploration behavior and performance in group-in-a-box layouts?"
+    url: https://link.springer.com/article/10.1007/s12650-024-01037-2
+    authors: <strong>Yuki Ueno</strong>, Hiroaki Natsukawa, Koji Koyamada
+    conference_short: JoV
+    conference: Journal of Visualization, 2024.
+    image: ./images/publications/ueno2025do.png
+    notes: Best Paper
+    pdf: ./files/publications/ueno2025do.pdf
+
+  - title: "User Evaluation of Group-in-a-Box Variants"
+    url: https://ieeexplore.ieee.org/document/8781570
+    authors: Nozomi Aoyama, Yosuke Onoue, <strong>Yuki Ueno</strong>, Hiroaki Natsukawa, Koji Koyamada
+    conference_short: PacificVis
+    conference: IEEE Pacific Visualization Symposium (PacificVis), 2019.
+    image: ./images/publications/vis_eval_1.png
+    pdf: ./files/publications/aoyama2019user.pdf
+
+  - title: "Exploration behavior of group-in-a-box layouts"
+    url: https://www.sciencedirect.com/science/article/pii/S2468502X19300208
+    authors: <strong>Yuki Ueno</strong>, Hiroaki Natsukawa, Nozomi Aoyama, Koji Koyamada
+    conference_short: VI
+    conference: Visual Informatics, 2019.
+    image: ./images/publications/ueno2019exploration.png
+    pdf: ./files/publications/ueno2019exploration.pdf
