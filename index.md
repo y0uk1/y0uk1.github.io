@@ -23,8 +23,7 @@ Please refer to my [CV](./files/Yuki_Ueno_CV.pdf) for more information.
 
 ## Research Interests
 
-- **Data Visualization:** information visualization, visual cognition, visualization evaluation
-- **Human–Computer Interaction:** AI-assisted interfaces, interactive algorithm visualization
+My research focuses on data visualization and human–computer interaction, particularly the design and development of AI-assisted visualization systems. I explore how generative AI can be integrated into interactive interfaces to support visualization authoring, visual data storytelling, and chart reconstruction from images.
 
 ## News
 
