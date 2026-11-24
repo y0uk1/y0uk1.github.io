@@ -29,7 +29,7 @@ My research focuses on data visualization and human–computer interaction, part
 
 <div markdown="1" role="region" aria-label="News" tabindex="0" style="height:240px; overflow-y:auto; margin-bottom:20px;">
 
-- **[November 2028]** My first-author paper **Augmented Algorithm: Generating Interactive Algorithm Visualizations from Static Textbook Pseudocode**, has been conditionally accepted at ACM IUI 2027.
+- **[November 2026]** My first-author paper **Augmented Algorithm: Generating Interactive Algorithm Visualizations from Static Textbook Pseudocode**, has been conditionally accepted at ACM IUI 2027.
 - **[September 2026]** My internship work, **ChartRevive: Reconstructing Data Visualizations from Chart Images Using MLLM**, has been accepted to the VIS x GenAI workshop at IEEE VIS 2026.
 - **[August 2026]** Our paper, **VisCanvas: A Node-Based Interface for Exploratory Visualization Authoring with LLMs**, has been accepted to IEEE VIS 2026 in Boston.
 - **[July 2026]** Our paper, **Harnessing LLMs Without Surrendering Control: Delegation Boundaries in Visual Data Storytelling Authoring**, has been accepted to the short paper track at IEEE VIS 2026.
